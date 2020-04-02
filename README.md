@@ -4,6 +4,7 @@ Codes made by me during the Semana OmniStack 11.0 presented by Rocketseat. The p
 Back-end:
 - Sqlite3
 - NodeJS
+  node command to inicialize:  npm start
 
 Front-end
 - ReactJS
